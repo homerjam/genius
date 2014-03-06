@@ -1,0 +1,20 @@
+{
+  "name": "genius",
+  "version": "0.0.0",
+  "authors": [
+    "homerjam <jameshomer85@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper": "~0.9.15",
+    "greensock": "~1.11.5",
+    "lodash": "~2.4.1"
+  }
+}
